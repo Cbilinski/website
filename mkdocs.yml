@@ -51,7 +51,6 @@ icon:
 # Page tree
 nav:
 - Home: index.md
-- Resume: resume.pdf
 
 # Extra Plugins
 plugins:
@@ -93,11 +92,6 @@ markdown_extensions:
     repo: mkdocs-material
 - pymdownx.mark
 - pymdownx.smartsymbols
-- pymdownx.superfences:
-    custom_fences:
-        - name: mermaid
-        class: mermaid
-        format: !!python/name:pymdownx.superfences.fence_code_format
 - pymdownx.tabbed
 - pymdownx.tasklist:
     custom_checkbox: true
