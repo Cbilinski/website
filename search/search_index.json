@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Home Landing Page for Chris","text":"<p>This is a tutorial on how to creates a MKdocs-material websites using GitHub Pages.</p>"}]}
