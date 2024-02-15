@@ -51,6 +51,7 @@ icon:
 # Page tree
 nav:
 - Home: index.md
+- Resume: resume.pdf
 
 # Extra Plugins
 plugins:
