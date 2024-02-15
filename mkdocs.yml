@@ -1,11 +1,11 @@
 site_name: Spooky Sites
 site_description: Cool stuff
 site_author: Christopher Bilinski
-site_url: The website URL
+site_url: https://cbilinski.github.io
 
 # Repository
-repo_name: The repository name
-repo_url: The repository URL
+repo_name: website
+repo_url: https://github.com/Cbilinski/website
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 - 2024'
